@@ -7,6 +7,7 @@
 * 😀 擅长方向：Web(MicroService)、JavaFX、Linux、Qt、Embedded
 * 💬 电子邮箱：mlpre@163.com
 
+
 * 👨‍💻‍ Full Name: Minli
 * 🏠 From: China,Wuhan
 * ❤ Favourite: Programming
