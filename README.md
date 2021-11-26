@@ -10,6 +10,6 @@
 
 * 😀 擅长方向(Good at direction): Web(MicroService),JavaFX,Linux,Qt,Embedded
 
-* 💬 电子邮箱(Email): mlpre@163.com
+* 💬 电子邮箱(Email): minlipre@163.com
 
 * 🔗 个人网页(Personal website): [minli.ml](https://minli.ml)
