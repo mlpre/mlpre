@@ -4,11 +4,11 @@
 
 * 🏠 居住城市(From): 中国,武汉(China,Wuhan)
 
-* ❤ 爱好(Favourite): 编程(Programming)
+* ❤ 爱好(Favourite): 编程(Programming),DIY
 
-* 😁 擅长语言(Good at language): Java,JavaScript,C,C++,Python,C#,SQL
+* 😁 擅长语言(Good at language): Java,JavaScript/TypeScript,C/C++,Python,C#,SQL
 
-* 😀 擅长方向(Good at direction): Web(MicroService),JavaFX,Linux,Qt,Embedded
+* 😀 擅长方向(Good at direction): B/S,JavaFX,Linux,Kubernetes,Qt,Embedded
 
 * 💬 电子邮箱(Email): minlipre@163.com
 
