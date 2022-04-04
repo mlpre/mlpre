@@ -12,4 +12,4 @@
 
 * 💬 电子邮箱(Email): minlipre@163.com
 
-* 🔗 个人网页(Personal website): [minli.ml](https://minli.ml)
+* 🔗 个人网页(Personal website): [https://min-li.github.io](https://min-li.github.io)
